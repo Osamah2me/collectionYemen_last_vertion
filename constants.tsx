@@ -1,3 +1,4 @@
+import logo from './public/Icons/logo_collection.png'; 
 
 import { Store, Translation } from './types';
 
